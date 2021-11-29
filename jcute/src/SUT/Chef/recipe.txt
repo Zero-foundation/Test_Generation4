@@ -1,0 +1,24 @@
+Fibonacci.
+
+Ingredients.
+0 g fiba
+1 g fibb
+16 g iterator
+16 g second iterator
+
+Method.
+Chop the iterator.
+Put fibb into 1st mixing bowl.
+Put fibb into 1st mixing bowl.
+Add fiba into 1st mixing bowl.
+Fold fibb into 1st mixing bowl.
+Fold fiba into 1st mixing bowl.
+Put fiba into 1st mixing bowl.
+Chop the iterator until choped.
+Mash the second iterator.
+Fold fiba into 1st mixing bowl.
+Put fiba into 2nd mixing bowl.
+Mash the second iterator until mashed.
+Pour contents of the 2nd mixing bowl into the 1st baking dish.
+
+Serves 1.

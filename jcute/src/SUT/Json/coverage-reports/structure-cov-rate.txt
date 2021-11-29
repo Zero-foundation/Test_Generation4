@@ -1,0 +1,6 @@
+-------------------------------------------------
+Path to clover report: D:\experiment-data\test-spliting-and-synthesis\cts\round4\Json\Json_07\coverage-reports\openclover\clover.xml
+[method] 74/272 27.21%
+[cond] 77/272 28.31%
+[stmt] 242/788 30.71%
+-------------------------------------------------

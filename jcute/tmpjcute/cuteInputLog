@@ -1,0 +1,10 @@
+1(integer)@security/Agent.java:16@Thread-1
+1(integer)@security/Agent.java:16@Thread-3
+1(integer)@security/Agent.java:16@Thread-2
+1(integer)@security/Agent.java:16@Thread-4
+0(integer)@security/tmn/TMN.java:132@Thread-4
+2(integer)@security/Agent.java:16@Thread-4
+1(integer)@security/Agent.java:16@Thread-3
+3(integer)@security/Agent.java:16@Thread-4
+0(integer)@security/tmn/TMN.java:203@Thread-4
+1(integer)@security/Agent.java:16@Thread-3

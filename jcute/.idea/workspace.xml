@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b40da82-83ef-4caa-a11f-7540d9e8d39e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2021-AutomatedSoftwareTesting" />
+  </component>
+  <component name="ProjectId" id="21XzelVI8GZ4birmpiPt3xIDi6X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/SUT" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/newTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/SUT" />
+      <recent name="$PROJECT_DIR$/src/newTest" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/tests" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b40da82-83ef-4caa-a11f-7540d9e8d39e" name="Default Changelist" comment="" />
+      <created>1638102317205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638102317205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="664" y="283" width="640" height="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638106206091">
+      <screen x="65" y="24" width="1849" height="812" />
+    </state>
+    <state x="664" y="283" width="640" height="360" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1849.812@65.24.1849.812" timestamp="1638106206091" />
+    <state x="828" y="370" width="312" height="186" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1638104904418">
+      <screen x="65" y="24" width="1849" height="812" />
+    </state>
+    <state x="828" y="370" width="312" height="186" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/65.24.1849.812@65.24.1849.812" timestamp="1638104904418" />
+    <state x="772" y="233" width="424" height="454" key="FileChooserDialogImpl" timestamp="1638194880416">
+      <screen x="65" y="24" width="1853" height="816" />
+    </state>
+    <state x="772" y="233" width="424" height="454" key="FileChooserDialogImpl/65.24.1853.816@65.24.1853.816" timestamp="1638194880416" />
+    <state x="564" y="202" width="839" height="572" key="NewModule_or_Project.wizard" timestamp="1638202369495">
+      <screen x="65" y="24" width="1853" height="816" />
+    </state>
+    <state x="564" y="202" width="839" height="572" key="NewModule_or_Project.wizard/65.24.1853.816@65.24.1853.816" timestamp="1638202369494" />
+    <state x="75" y="54" width="1024" height="786" key="SettingsEditor" timestamp="1638200781991">
+      <screen x="65" y="24" width="1853" height="816" />
+    </state>
+    <state x="75" y="54" width="1024" height="786" key="SettingsEditor/65.24.1853.816@65.24.1853.816" timestamp="1638200781991" />
+    <state x="645" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1638194171220">
+      <screen x="65" y="24" width="1853" height="816" />
+    </state>
+    <state x="645" y="303" key="com.intellij.ide.util.TipDialog/65.24.1853.816@65.24.1853.816" timestamp="1638194171219" />
+    <state x="653" y="208" key="run.anything.popup" timestamp="1638196464154">
+      <screen x="65" y="24" width="1853" height="816" />
+    </state>
+    <state x="653" y="208" key="run.anything.popup/65.24.1853.816@65.24.1853.816" timestamp="1638196464154" />
+    <state x="652" y="161" width="672" height="678" key="search.everywhere.popup" timestamp="1638199629181">
+      <screen x="65" y="24" width="1853" height="816" />
+    </state>
+    <state x="652" y="161" width="672" height="678" key="search.everywhere.popup/65.24.1853.816@65.24.1853.816" timestamp="1638199629181" />
+  </component>
+</project>

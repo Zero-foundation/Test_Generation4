@@ -1,0 +1,70 @@
+rm -f output
+echo "Testing Bounded Buffer" 
+echo ""
+./jcutec src/ src/jpf_test_cases/boundedbuffer/BoundedBuffer.java jpf_test_cases.boundedbuffer.BoundedBuffer -concurrent
+./jcute jpf_test_cases.boundedbuffer.BoundedBuffer -i 43  -p 1
+echo "ERROR in 43 runs"
+sleep 5
+java  -classpath jcute.jar cute.concolic.BranchCoverage >> output
+echo ""
+echo ""
+
+echo "Testing Nested Monitors"
+echo ""
+./jcutec src/ src/jpf_test_cases/nestedmonitors/NestedMonitor.java jpf_test_cases.nestedmonitors.NestedMonitor -concurrent
+./jcute jpf_test_cases.nestedmonitors.NestedMonitor -i 2  -p 1
+echo "ERROR in 2 runs"
+sleep 5
+java  -classpath jcute.jar cute.concolic.BranchCoverage >> output
+echo ""
+echo ""
+
+echo "Testing Pipeline"
+echo ""
+./jcutec src/ src/jpf_test_cases/pipeline/PipeInttest.java jpf_test_cases.pipeline.PipeInttest -concurrent
+./jcute jpf_test_cases.pipeline.PipeInttest -i 3  -p 1
+echo "ERROR in 3 runs"
+sleep 5
+java  -classpath jcute.jar cute.concolic.BranchCoverage >> output
+echo ""
+echo ""
+
+echo "Testing Remote Agent"
+echo ""
+./jcutec src/ src/jpf_test_cases/rax/START.java jpf_test_cases.rax.START -concurrent
+./jcute jpf_test_cases.rax.START -i 2  -p 1
+echo "ERROR in 2 runs"
+sleep 5
+java  -classpath jcute.jar cute.concolic.BranchCoverage >> output
+echo ""
+echo ""
+
+echo "Testing Readers Writers"
+echo ""
+./jcutec src/ src/jpf_test_cases/readerswriters/RWVSNTest.java jpf_test_cases.readerswriters.RWVSNTest -concurrent
+./jcute jpf_test_cases.readerswriters.RWVSNTest -i 8  -p 1
+echo "ERROR in 8 runs"
+sleep 5
+java  -classpath jcute.jar cute.concolic.BranchCoverage >> output
+echo ""
+echo ""
+
+echo "Testing Replicated Workers"
+echo ""
+./jcutec src/ src/jpf_test_cases/replicatedcasestudies/Generic.java jpf_test_cases.replicatedcasestudies.Generic -concurrent
+./jcute jpf_test_cases.replicatedcasestudies.Generic -i 1  -p 1 -r -s 1
+echo "ERROR in 1 run"
+sleep 5
+java  -classpath jcute.jar cute.concolic.BranchCoverage >> output
+echo ""
+echo ""
+
+echo "Testing DEOS"
+echo ""
+./jcutec src/ src/jpf_test_cases/DEOS/DEOS.java jpf_test_cases.DEOS.DEOS
+./jcute jpf_test_cases.DEOS.DEOS -i 111  -p 1
+echo "ERROR in 111 runs"
+sleep 5
+java  -classpath jcute.jar cute.concolic.BranchCoverage >> output
+echo ""
+echo ""

@@ -1,0 +1,42 @@
+class JCuteGuiExecLog {
+	public static void main(String args[]){
+		cute.gui.JCuteTextUI tui = new cute.gui.JCuteTextUI(false);
+		tui.updateSoftCompleted();
+		tui.setSrcDirName("/home/lzl/Downloads/jcute/2021-AutomatedSoftwareTesting/_java-examples");
+		tui.setSrcFileName("/home/lzl/Downloads/jcute/2021-AutomatedSoftwareTesting/_java-examples/Test.java");
+		tui.setCompilableExt();
+		tui.setOptionJUnitOutputFolderName("/home/lzl/Downloads/jcute");
+		tui.setMainClassNamePlusFun("Test.main");
+		tui.compileAction();
+		tui.setSrcFileName("/home/lzl/Downloads/jcute/2021-AutomatedSoftwareTesting/_java-examples/SwapSimple.java");
+		tui.setCompilableExt();
+		tui.setOptionJUnitOutputFolderName("/home/lzl/Downloads/jcute");
+		tui.setMainClassNamePlusFun("SwapSimple.main");
+		tui.compileAction();
+		tui.setSrcFileName("/home/lzl/Downloads/jcute/2021-AutomatedSoftwareTesting/_java-examples/TestMe1.java");
+		tui.setCompilableExt();
+		tui.setOptionJUnitOutputFolderName("/home/lzl/Downloads/jcute");
+		tui.setMainClassNamePlusFun("TestMe1.main");
+		tui.compileAction();
+		tui.setSrcFileName("/home/lzl/Downloads/jcute/2021-AutomatedSoftwareTesting/_java-examples/Node.java");
+		tui.setCompilableExt();
+		tui.setOptionJUnitOutputFolderName("/home/lzl/Downloads/jcute");
+		tui.setMainClassNamePlusFun("Node.main");
+		tui.compileAction();
+		tui.setSrcFileName("/home/lzl/Downloads/jcute/2021-AutomatedSoftwareTesting/_java-examples/Loop.java");
+		tui.setCompilableExt();
+		tui.setOptionJUnitOutputFolderName("/home/lzl/Downloads/jcute");
+		tui.setMainClassNamePlusFun("Loop.main");
+		tui.compileAction();
+		tui.setSrcFileName("/home/lzl/Downloads/jcute/2021-AutomatedSoftwareTesting/_java-examples/Input.java");
+		tui.setCompilableExt();
+		tui.setOptionJUnitOutputFolderName("/home/lzl/Downloads/jcute");
+		tui.setMainClassNamePlusFun("Input.main");
+		tui.compileAction();
+		tui.setCompilableExt();
+		tui.setOptionJUnitOutputFolderName("/home/lzl/Downloads/jcute");
+		tui.setCompilableExt();
+		tui.setOptionJUnitOutputFolderName("/home/lzl/Downloads/jcute");
+		tui.quitAction();
+	}
+}
