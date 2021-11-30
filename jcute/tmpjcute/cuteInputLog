@@ -1,10 +1,7 @@
-1(integer)@security/Agent.java:16@Thread-1
-1(integer)@security/Agent.java:16@Thread-3
-1(integer)@security/Agent.java:16@Thread-2
-1(integer)@security/Agent.java:16@Thread-4
-0(integer)@security/tmn/TMN.java:132@Thread-4
-2(integer)@security/Agent.java:16@Thread-4
-1(integer)@security/Agent.java:16@Thread-3
-3(integer)@security/Agent.java:16@Thread-4
-0(integer)@security/tmn/TMN.java:203@Thread-4
-1(integer)@security/Agent.java:16@Thread-3
+7145547(tests.Node)@tests/DSort.java:16@main
+  elem=2(integer)@tests/DSort.java:16@main
+  next=13549765(tests.Node)@tests/DSort.java:16@main
+    elem=1(integer)@tests/DSort.java:16@main
+    next=28061596(tests.Node)@tests/DSort.java:16@main
+      elem=0(integer)@tests/DSort.java:16@main
+      next=0(tests.Node)@tests/DSort.java:16@main
